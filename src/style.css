@@ -9,6 +9,10 @@ body {
   margin-top: 120px;
 }
 
+.progress {
+  width: 300px;
+  margin-top: 15px
+
 button {
   padding: 10px 20px;
   font-size: 18px;
